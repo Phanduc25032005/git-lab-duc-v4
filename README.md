@@ -9,3 +9,6 @@ branching, merging, and reverting in Git.
 - Branch management
 - Conflict handling
 - History control
+## Status
+Profile feature is in progress.
+
