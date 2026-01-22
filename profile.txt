@@ -1,0 +1,4 @@
+User Profile Feature
+- Display user personal information
+- Allow users to update their profile
+- Manage avatar and contact details
